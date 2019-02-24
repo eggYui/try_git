@@ -1,5 +1,4 @@
 01 edit
 02 edit
 ----- Reference Point -----
-garbage row 01
-garbage row 02
+garbage row
